@@ -1,0 +1,2 @@
+# Texas-A-M-Data-Science-Competition
+The problem statement was based on a dataset from Los Angeles Metro Bike Share Company where we applied predictive modeling to forecast future demand of bicycles in LA and performed network management for effective bicycle staging over 140+ rental stations. We were also successful in recommending a new pricing policy which would lead to increased profit and ridership to the company. Tools used in our analysis primarily included Python &amp; Tableau. Team name: "Ensemble"
